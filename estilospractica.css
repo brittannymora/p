@@ -1,0 +1,60 @@
+.h1 
+{
+    color: blue; text-align: center 
+}
+
+
+.img
+{
+    padding-left: 38%
+}
+
+
+
+.section
+{
+    margin-left: 5%
+}
+
+
+
+.articulo1
+{
+    color: aqua; padding-left: 7%; padding-top: 2%
+}
+.articulo2
+{
+    color: violet; padding-left: 7%; padding-top: 2%
+}
+.articulo3
+{
+    color: chartreuse; padding-left: 7%; padding-top: 2%
+}
+
+
+.footer
+{
+    color: brown; padding-left: 3%; padding-top: 2%;
+}
+
+
+
+#articulo1
+{
+    color: hotpink;
+}
+#articulo2
+{
+    color: crimson;
+}
+#articulo3
+{
+    color: darkorchid;
+}
+
+
+.ol
+{
+    font-size: 20px;
+    font-weight: 1000;
+}
